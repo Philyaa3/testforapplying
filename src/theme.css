@@ -1,0 +1,17 @@
+:root {
+    --sidebar-bg: #575757;
+    --content-bg: #ffffff;
+    --text-color: #212121;
+    --button-bg: #2696ff;
+    --button-text: #ffffff;
+    --button-disabled-bg: #e0e0e0;
+}
+
+.dark {
+    --sidebar-bg: #454545;
+    --content-bg: #212121;
+    --text-color: #dedede;
+    --button-bg: #2696ff;
+    --button-text: #ffffff;
+    --button-disabled-bg: #444;
+}
